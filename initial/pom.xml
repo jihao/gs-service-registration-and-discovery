@@ -9,7 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>eureka-client</module>
+        <module>eureka-client-greet-service</module>
+        <module>eureka-client-frontend</module>
         <module>eureka-service</module>
     </modules>
 
